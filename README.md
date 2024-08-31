@@ -1,3 +1,3 @@
 # Online-Music-Streaming-Web
-Collage Major Project
+Collage Major Project <br>
 Author- Falgune Mondal
